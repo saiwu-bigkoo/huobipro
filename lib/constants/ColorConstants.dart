@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+const kPrimaryColor = Color(0xff0864ec);
+const kPrimaryLightColor = Color(0xffe9f1fc);
+const kDividerColor = Color(0xffe7ebee);
+const kBgGrayColor = Color(0xfff4f3f8);
+const kTextColor = Color(0xFF000000);
+const kTextGrayColor = Color(0xffacadad);
+const kTextGrayBlueColor = Color(0xff6D87A8);
+const kTextColorSearch = Color(0xFF96A1A7);
+const kbgSearch = Color(0x4ddde1e3);
+const kTextColorRed = Color(0xffd14b64);
+const kTextColorIncreaseUp = Color(0xff03ad8f);
+const kTextColorIncreaseDown = Color(0xffd14b64);
+const kbgColorKChart = Color(0xff0c151d);
+const kbgColorKChartDark = Color(0xff131f30);
+const kbgColorKChartContentStart = Color(0xff111e2f);
+const kbgColorKChartContentEnd = Color(0xff0f1724);
+const kTextColorKChartTitle = Color(0xffd0d4ec);
+const kTextColorOrange = Color(0xffFFAE0E);
+const kTextColorKChartTab = Color(0xff0066EE);
