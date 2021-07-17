@@ -2,7 +2,9 @@
  flutter仿火币客户端, 没使用火币api，用firebase自写数据简单的提供了下假数据。
 
 # demo录像
-![](https://github.com/saiwu-bigkoo/huobipro/blob/main/video.mp4)
+<video id="video" controls="" preload="none">
+<source id="mp4" src="https://github.com/saiwu-bigkoo/huobipro/blob/main/video.mp4" type="video/mp4">
+</video>
 
 ## 开源协议
 
